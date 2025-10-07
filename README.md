@@ -7,7 +7,7 @@ Things I've gone and worked on:
 - My site (linked above)
 - The Mr. Robot ARGs (season 3 fully and 4 kind of)
 - Game Preservation for Mirror's Edge: Catalyst (2016), see [The Beat Revival](https://www.beatrevival.me/) for more about that
-- Emergency Alert System/Specific Area Message Encoding work (including a fully [browser-based ENDEC](https://github.com/wagwan-piffting-blud/EAS-Tools), and a Discord relay bot written in Rust coming Soon™️)
+- Emergency Alert System/Specific Area Message Encoding work (including a fully [browser-based ENDEC](https://github.com/wagwan-piffting-blud/EAS-Tools), and a [fully featured software ENDEC](https://github.com/wagwan-piffting-blud/ASMARA_Rust))
 - [Coin Collection Information DataBase (CCIDB)](https://github.com/wagwan-piffting-blud/ccidb), an open-source (and closed-source cloud version available at [https://ccidb.net/](https://ccidb.net/)) coin collection management software
 - ...always with more to come.
 
